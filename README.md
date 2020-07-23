@@ -1,6 +1,6 @@
 # Calculadora JavaScript
 
-##Sandro Frazao Specht
+## Sandro Frazao Specht
 
 Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com 
 
